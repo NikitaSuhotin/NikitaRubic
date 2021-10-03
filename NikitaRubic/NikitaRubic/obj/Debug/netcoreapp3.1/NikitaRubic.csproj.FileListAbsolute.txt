@@ -145,3 +145,9 @@ C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\bin\D
 C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\obj\Debug\netcoreapp3.1\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\obj\Debug\netcoreapp3.1\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\Никита\Documents\GitHub\NikitaRubic\NikitaRubic\NikitaRubic\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
