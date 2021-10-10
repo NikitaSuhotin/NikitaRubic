@@ -26,6 +26,7 @@ namespace NikitaRubic
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
             services.AddDbContext<NoteContext>(opt => opt.UseInMemoryDatabase("NikitaBase"));
             services.AddDbContext<UserContext>(opt => opt.UseInMemoryDatabase("NikitaBase"));
             services.AddControllers();
@@ -42,6 +43,8 @@ namespace NikitaRubic
             {
                 app.UseExceptionHandler("/Error");
             }
+
+            app.UseCors(option => option.WithOrigins("http://localhost:8080").AllowAnyMethod());
 
             app.UseStaticFiles();
 
